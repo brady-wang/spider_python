@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+import scrapy
+
+
+class CiliSpider(scrapy.Spider):
+    name = 'cili'
+    allowed_domains = ['www.bturl.cc']
+    start_urls = ['http://www.bturl.cc/']
+
+    def parse(self, response):
+        pass
