@@ -17,6 +17,10 @@ class PexSpider(CrawlSpider):
     )
 
     def parse_item(self, response):
+        from scrapy.mail import MailSender
+        mailer = MailSender()
+        mailer.send(to=["3414973501@qq.com"], subject="pexels download image", body="Some body", cc=["another@example.com"])
+
         i = ImagesItem()
         #i['domain_id'] = response.xpath('//input[@id="sid"]/@value').extract()
         #i['name'] = response.xpath('//div[@id="name"]').extract()

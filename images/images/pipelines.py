@@ -5,6 +5,14 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
+from scrapy.pipelines.files import FilesPipeline
+class OveridePipeline(FilesPipeline):
+    def file_path(self, request, response=None, info=None):
+        file_name = request.url.split('/')[-1]
+        if "." not in file_name:
+            file_name = file_name + '.png'
+        return "pexels/"+file_name
+
 
 class ImagesPipeline(object):
     def process_item(self, item, spider):

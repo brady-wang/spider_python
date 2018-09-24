@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for images project
+# Scrapy settings for jobs_spider project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'images'
+BOT_NAME = 'jobs_spider'
 
-SPIDER_MODULES = ['images.spiders']
-NEWSPIDER_MODULE = 'images.spiders'
+SPIDER_MODULES = ['jobs_spider.spiders']
+NEWSPIDER_MODULE = 'jobs_spider.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'images (+http://www.yourdomain.com)'
+#USER_AGENT = 'jobs_spider (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -43,17 +43,22 @@ DOWNLOAD_DELAY = 0.3
 #   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 #   'Accept-Language': 'en',
 #}
+DEFAULT_REQUEST_HEADERS = {
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'Accept-Language': 'en',
+  'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+}
 
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'images.middlewares.ImagesSpiderMiddleware': 543,
+#    'jobs_spider.middlewares.JobsSpiderSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'images.middlewares.MyCustomDownloaderMiddleware': 543,
+#    'jobs_spider.middlewares.MyCustomDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,21 +70,10 @@ DOWNLOAD_DELAY = 0.3
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    #'scrapy.pipelines.images.ImagesPipeline':2,
-    #'scrapy.pipelines.files.FilesPipeline':3,
-    'images.pipelines.OveridePipeline':3,
-    'images.pipelines.ImagesPipeline': 1,
+   #'jobs_spider.pipelines.JobsSpiderPipeline': 300,
+   'jobs_spider.pipelines.JobsSpiderPipeline': 300,
 }
 
-FILES_STORE = 'd:/crawl'
-# IMAGES_STORE = 'd:/crawl'
-# IMAGES_MIN_HEIGHT = 1000 # 图片最小高度限制
-# IMAGES_MIN_WIDTH = 1200 # 图片最小宽度限制
-# IMAGES_EXPIRES = 90 # 失效时间，单位：天
-# IMAGES_THUMBS = { # 设置缩略图，可以多个键值对
-# 'small':(50,50),
-# 'big':(600,600)
-# }
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
