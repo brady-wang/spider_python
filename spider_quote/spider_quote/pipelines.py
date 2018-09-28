@@ -21,7 +21,6 @@ class SpiderQuotePipeline(object):
         now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         # 插入数据
         sql = "insert  into ganji(title,money,create_time) values('{}','{}','{}')".format(item['title'], item['author'],now)
-        print(sql)
         reCount = self.cur.execute(sql)
         self.conn.commit()
         return item

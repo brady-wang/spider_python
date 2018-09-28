@@ -13,4 +13,3 @@ class SpiderQuoteItem(scrapy.Item):
     # name = scrapy.Field()
     title = scrapy.Field()
     author = scrapy.Field()
-

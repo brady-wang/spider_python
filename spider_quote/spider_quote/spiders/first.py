@@ -21,7 +21,7 @@ class FirstSpider(scrapy.Spider):
             yield item
 
         #获取下一页 并且进行请求
-        next_links = response.xpath("//li[@class='next']/a[1]/@href").extract()
-        if len(next_links) > 0:
-            next_link = self.host.format(next_links[0])
-            yield scrapy.Request(next_link,callback=self.parse)
+        # next_links = response.xpath("//li[@class='next']/a[1]/@href").extract()
+        # if len(next_links) > 0:
+        #     next_link = self.host.format(next_links[0])
+        #     yield scrapy.Request(next_link,callback=self.parse)
