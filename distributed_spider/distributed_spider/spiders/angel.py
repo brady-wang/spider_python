@@ -17,4 +17,4 @@ class AngelSpider(RedisSpider):
 
     def parse(self, response):
         time.sleep(1)
-        print(response.url,"++++++++++++++++++++++++++++")
+        print(response.text)
