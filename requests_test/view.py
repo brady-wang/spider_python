@@ -16,7 +16,15 @@ def requests_view(response):
     webbrowser.open_new_tab("tmp.html")
 
 
-response = requests.get("https://www.baidu.com/")
+url = 'https://music.163.com/#/song?id=513360721'
+headers = {
+    'Referer':'https://music.163.com/',
+    'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+}
+data = {
+    'id':513360721
+}
+response = requests.get(url,headers=headers,data=data)
 #requests_view(response)
 content = response.content.decode()
 tree = etree.HTML(content)
