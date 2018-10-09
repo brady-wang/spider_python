@@ -4,7 +4,870 @@
     <bookmark url="file://$PROJECT_DIR$/requests_test/test_post.py" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="6b1e5669-f512-47b1-9869-48a8caa958f6" name="默认的" comment="" />
+    <list default="true" readonly="true" id="6b1e5669-f512-47b1-9869-48a8caa958f6" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/Decision Tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/2.海伦约会" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sort_test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost/ROC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost/adaboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost/horseColicTest2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost/horseColicTraining2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost/horse_adaboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/AdaBoost/sklearn_adaboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/Decision Tree/Decision Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/Decision Tree/Sklearn-Decision Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/Decision Tree/classifierStorage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/Decision Tree/lenses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/2.海伦约会/datingTestSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/2.海伦约会/kNN_test02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/0_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/1_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/2_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/3_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/4_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/5_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/6_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/7_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/8_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/kNN/3.数字识别/testDigits/9_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ai/t1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sort_test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sort_test/bubble_sort.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +885,8 @@
     <SUITE FILE_PATH="coverage/python$sp3.coverage" NAME="sp3 Coverage Results" MODIFIED="1539055932557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
     <SUITE FILE_PATH="coverage/python$draw_line1.coverage" NAME="draw_line1 Coverage Results" MODIFIED="1539053190699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
     <SUITE FILE_PATH="coverage/python$Game5.coverage" NAME="Game5 Coverage Results" MODIFIED="1538992038654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Games/Game5" />
-    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 Coverage Results" MODIFIED="1538991678129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
     <SUITE FILE_PATH="coverage/python$plane.coverage" NAME="plane Coverage Results" MODIFIED="1538994267538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
+    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 Coverage Results" MODIFIED="1539072157005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai" />
     <SUITE FILE_PATH="coverage/python$Game2.coverage" NAME="Game2 Coverage Results" MODIFIED="1538989609242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Games/Game2" />
     <SUITE FILE_PATH="coverage/python$music_my.coverage" NAME="music_my Coverage Results" MODIFIED="1538982376934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$draw5.coverage" NAME="draw5 Coverage Results" MODIFIED="1539053724633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
@@ -39,10 +902,12 @@
     <SUITE FILE_PATH="coverage/python$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1538993339982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
     <SUITE FILE_PATH="coverage/python$run.coverage" NAME="run Coverage Results" MODIFIED="1537931645779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/middle/middle" />
     <SUITE FILE_PATH="coverage/python$aes3.coverage" NAME="aes3 Coverage Results" MODIFIED="1538978741156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
+    <SUITE FILE_PATH="coverage/python$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1539081677906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_test" />
     <SUITE FILE_PATH="coverage/python$post.coverage" NAME="post Coverage Results" MODIFIED="1538295524905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$draw.coverage" NAME="draw Coverage Results" MODIFIED="1539051899406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
     <SUITE FILE_PATH="coverage/python$m1.coverage" NAME="m1 Coverage Results" MODIFIED="1538984192107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$Game1.coverage" NAME="Game1 Coverage Results" MODIFIED="1539049050146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Games/Game1" />
+    <SUITE FILE_PATH="coverage/python$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1539074044596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai" />
     <SUITE FILE_PATH="coverage/python$aes1.coverage" NAME="aes1 Coverage Results" MODIFIED="1538978535952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$aes4.coverage" NAME="aes4 Coverage Results" MODIFIED="1538979986923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$Game3.coverage" NAME="Game3 Coverage Results" MODIFIED="1538989669467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Games/Game3" />
@@ -55,7 +920,7 @@
     <SUITE FILE_PATH="coverage/python$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1537956977955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$test_requests.coverage" NAME="test_requests Coverage Results" MODIFIED="1537859462931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sp" />
     <SUITE FILE_PATH="coverage/python$get.coverage" NAME="get Coverage Results" MODIFIED="1537966993769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
-    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2 Coverage Results" MODIFIED="1538993463313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygametest" />
+    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2 Coverage Results" MODIFIED="1539072346020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai" />
     <SUITE FILE_PATH="coverage/python$view.coverage" NAME="view Coverage Results" MODIFIED="1538965916601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
     <SUITE FILE_PATH="coverage/python$WYY_Music_Downloader.coverage" NAME="WYY_Music_Downloader Coverage Results" MODIFIED="1538990466175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$music.coverage" NAME="music Coverage Results" MODIFIED="1538963119466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -77,11 +942,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="draw.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/draw.py">
+      <file leaf-file-name="t1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ai/t1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="27">
+              <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
               <folding>
                 <element signature="e#22#40#0" expanded="true" />
               </folding>
@@ -89,93 +954,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="draw1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/draw1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draw_line1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/draw_line1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draw2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/draw2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draw3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/draw3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="63" column="32" lean-forward="false" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draw5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/draw5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="audio.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/audio.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sp1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/sp1.py">
+      <file leaf-file-name="bubble_sort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sort_test/bubble_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sp2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygametest/sp2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#22#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sp3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pygametest/sp3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3726">
-              <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+              <caret line="10" column="51" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -231,10 +1014,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_selenium/3.py" />
-        <option value="$PROJECT_DIR$/test_selenium/4.py" />
-        <option value="$PROJECT_DIR$/test_selenium/5.py" />
-        <option value="$PROJECT_DIR$/distributed_spider/distributed_spider/settings.py" />
         <option value="$PROJECT_DIR$/task/task/spiders/yeves.py" />
         <option value="$PROJECT_DIR$/distributed_spider/distributed_spider/spiders/angel.py" />
         <option value="$PROJECT_DIR$/task/task/pipelines.py" />
@@ -282,6 +1061,10 @@
         <option value="$PROJECT_DIR$/pygametest/sp1.py" />
         <option value="$PROJECT_DIR$/pygametest/sp2.py" />
         <option value="$PROJECT_DIR$/pygametest/sp3.py" />
+        <option value="$PROJECT_DIR$/ai/1.py" />
+        <option value="$PROJECT_DIR$/ai/2.py" />
+        <option value="$PROJECT_DIR$/ai/t1.py" />
+        <option value="$PROJECT_DIR$/sort_test/bubble_sort.py" />
       </list>
     </option>
   </component>
@@ -292,8 +1075,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="638" />
-    <option name="y" value="121" />
+    <option name="x" value="391" />
+    <option name="y" value="154" />
     <option name="width" value="1185" />
     <option name="height" value="898" />
   </component>
@@ -316,13 +1099,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="np" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
@@ -335,10 +1122,16 @@
               <item name="pygametest" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="sort_test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,11 +1146,11 @@
       <recent name="D:\www\python\download_middleware\download_middleware" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\python\ai" />
       <recent name="D:\www\python\pygametest" />
       <recent name="D:\www\python" />
       <recent name="D:\www\python\requests_test" />
       <recent name="D:\www\python\mysite" />
-      <recent name="D:\www\python\distributed_spider\distributed_spider\spiders" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -372,75 +1165,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sp3">
-    <configuration name="audio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bubble_sort">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygametest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygametest/audio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="draw5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygametest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygametest/draw5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sp1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygametest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygametest/sp1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="sp2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygametest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygametest/sp2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_test/bubble_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -463,20 +1238,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai/t1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.draw5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.audio" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sp1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sp2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sp3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sp3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.t1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bubble_sort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sp3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sp2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sp1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.audio" />
-        <item index="4" class="java.lang.String" itemvalue="Python.draw5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bubble_sort" />
+        <item index="1" class="java.lang.String" itemvalue="Python.t1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sp3" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +1327,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1444563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14712153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3181818" sideWeight="0.50319827" order="12" side_tool="true" content_ui="tabs" />
@@ -543,7 +1336,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35714287" sideWeight="0.4968017" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27380952" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7770563" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -578,41 +1371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requests_test/aes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests_test/aes2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests_test/aes1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests_test/aes3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests_test/aes4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requests_test/music_my.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -690,9 +1448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-648">
           <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding>
-            <element signature="e#42#71#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,9 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="76" column="49" lean-forward="false" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
-          <folding>
-            <element signature="e#49#59#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,9 +1495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5562">
           <caret line="209" column="21" lean-forward="false" selection-start-line="209" selection-start-column="21" selection-end-line="209" selection-end-column="21" />
-          <folding>
-            <element signature="e#51#77#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,7 +1502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,7 +1524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,7 +1536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +1548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,9 +1555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="199" column="6" lean-forward="false" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
-          <folding>
-            <element signature="e#77#90#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,7 +1562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,7 +1569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-296">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,9 +1576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,7 +1583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,9 +1590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-          <folding>
-            <element signature="e#22#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,9 +1597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#22#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,7 +1604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +1611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +1618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +1625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="63" column="32" lean-forward="false" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,40 +1632,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pygametest/audio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pygametest/sp1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding />
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pygametest/sp2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#39#0" expanded="true" />
-          </folding>
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pygametest/sp3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3726">
-          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        <state relative-caret-position="-1917">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/np/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="68" lean-forward="true" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+          <folding>
+            <element signature="e#22#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort_test/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
