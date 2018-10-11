@@ -71,15 +71,15 @@ ITEM_PIPELINES = {
     'images.pipelines.ImagesPipeline': 1,
 }
 
-#FILES_STORE = 'd:/crawl'
-IMAGES_STORE = 'd:/crawl2'
-IMAGES_MIN_HEIGHT = 1000 # 图片最小高度限制
-IMAGES_MIN_WIDTH = 1200 # 图片最小宽度限制
-IMAGES_EXPIRES = 1 # 失效时间，单位：天
-IMAGES_THUMBS = { # 设置缩略图，可以多个键值对
-'small':(100,100),
-'big':(800,800)
-}
+FILES_STORE = 'd:/crawl'
+# IMAGES_STORE = 'd:/crawl2'
+# IMAGES_MIN_HEIGHT = 1000 # 图片最小高度限制
+# IMAGES_MIN_WIDTH = 1200 # 图片最小宽度限制
+# IMAGES_EXPIRES = 1 # 失效时间，单位：天
+# IMAGES_THUMBS = { # 设置缩略图，可以多个键值对
+# 'small':(100,100),
+# 'big':(800,800)
+# }
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

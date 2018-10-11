@@ -6,33 +6,39 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 from scrapy.pipelines.files import FilesPipeline
-class OveridePipeline(FilesPipeline):
+from scrapy.pipelines.images import ImagesPipeline
+class OveridePipeline(ImagesPipeline):
     def file_path(self, request, response=None, info=None):
         file_name = request.url.split('/')[-1]
         if "." not in file_name:
             file_name = file_name + '.png'
         return "pexels/"+file_name
 
+    def thumb_path(self, request, thumb_id, response=None, info=None):
+        file_name = request.url.split('/')[-1]
+        if "." not in file_name:
+            file_name = file_name + '.png'
+        return 'thumbs/%s/%s.jpg' % (thumb_id, file_name)
 
 class ImagesPipeline(object):
     def process_item(self, item, spider):
-        # tmp = item['image_urls']
-        # item['image_urls'] = []
-        #
-        # for i in tmp:
-        #     if "?" in i:
-        #         item['image_urls'].append(i.split("?")[0])
-        #     else:
-        #         item['image_urls'].append(i)
-        # print("下载图片:",item['image_urls'])
-        # return item
-        tmp = item['file_urls']
-        item['file_urls'] = []
+        tmp = item['image_urls']
+        item['image_urls'] = []
 
         for i in tmp:
             if "?" in i:
-                item['file_urls'].append(i.split("?")[0])
+                item['image_urls'].append(i.split("?")[0])
             else:
-                item['file_urls'].append(i)
-        print("下载图片:", item['file_urls'])
+                item['image_urls'].append(i)
+        print("下载图片:",item['image_urls'])
         return item
+        # tmp = item['file_urls']
+        # item['file_urls'] = []
+        #
+        # for i in tmp:
+        #     if "?" in i:
+        #         item['file_urls'].append(i.split("?")[0])
+        #     else:
+        #         item['file_urls'].append(i)
+        # print("下载图片:", item['file_urls'])
+        # return item

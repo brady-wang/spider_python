@@ -8,7 +8,7 @@ from scrapy.pipelines.images import ImagesPipeline
 from scrapy.pipelines.files import FilesPipeline
 from scrapy.pipelines.media import MediaPipeline
 class PexSpider(CrawlSpider):
-    name = 'pex'
+    name = 'pex-files'
     allowed_domains = ['www.pexels.com']
     start_urls = ['https://www.pexels.com/photo/vehicle-on-road-along-green-grass-during-night-714023/']
 
@@ -22,6 +22,6 @@ class PexSpider(CrawlSpider):
         #i['domain_id'] = response.xpath('//input[@id="sid"]/@value').extract()
         #i['name'] = response.xpath('//div[@id="name"]').extract()
         #i['description'] = response.xpath('//div[@id="description"]').extract()
-        i['image_urls'] = response.xpath("//img[@class='image-section__image js-photo-zoom']/@src").extract()
-        #i['file_urls'] = response.xpath("//img[@class='image-section__image js-photo-zoom']/@src").extract()
+        #i['image_urls'] = response.xpath("//img[@class='image-section__image js-photo-zoom']/@src").extract()
+        i['file_urls'] = response.xpath("//img[@class='image-section__image js-photo-zoom']/@src").extract()
         return i
